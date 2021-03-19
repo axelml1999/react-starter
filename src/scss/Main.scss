@@ -1,0 +1,18 @@
+/*  SMACSS & BEM ARCHITECTURE FOR CSS | MIT License */
+
+/*  Utilities Rules ============================== */
+@import "Variables.scss";
+@import "Mixins.scss";
+@import "Fonts.scss";
+
+/*  Base Rules ================================== */
+@import "Reset.scss";
+
+/*  Layout Rules ================================ */
+@import "Container.scss";
+
+/*  Component Rules ================================ */
+
+/*  Pages Rules ================================ */
+
+@import "pages/App.scss";
