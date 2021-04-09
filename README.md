@@ -1,1 +1,1 @@
-# ml-software with React
+# react-starter-kit
